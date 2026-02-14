@@ -339,5 +339,3 @@ A: Observer (detach observers), Memento (limit snapshot history), Command (limit
 4. **Real-world:** Most systems use multiple behavioral patterns together
 
 ---
-
-End of Behavioral Patterns Summary
