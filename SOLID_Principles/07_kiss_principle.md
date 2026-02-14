@@ -9,7 +9,7 @@ Simple code is easier to read, test and maintain.
 
 ```java
 public int sum(int[] arr) {
-    return Arrays.stream(arr).sum();
+    return Arrays.stream(arr).sum(); //Its misleading
 }
 ```
 
@@ -25,3 +25,17 @@ public int sum(int[] arr) {
     }
 }
 ```
+
+if (a>b) ? For true : For false
+
+Hard for user to read statement.
+
+if()
+    {
+
+    }
+else
+    {
+
+    }
+
